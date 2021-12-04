@@ -8,28 +8,28 @@ The theme of the 2021 AOC appears to be submarines...
 
 # My progress
 
-- [1  | 1] [Depth Measurements | https://adventofcode.com/2021/day/1]
-- [2  | 2] [Submarine Diving   | https://adventofcode.com/2021/day/2]
-- [3  | 3] [Binary Diagnostics | https://adventofcode.com/2021/day/3]
-- [4  | 4] [TBD                | https://adventofcode.com/2021/]
-- [5  | 5] [TBD                | https://adventofcode.com/2021/]
-- [6  | 6] [TBD                | https://adventofcode.com/2021/]
-- [7  | 7] [TBD                | https://adventofcode.com/2021/]
-- [8  | 8] [TBD                | https://adventofcode.com/2021/]
-- [9  | 9] [TBD                | https://adventofcode.com/2021/]
-- [10 | 10] [TBD               | https://adventofcode.com/2021/]
-- [11 | 11] [TBD               | https://adventofcode.com/2021/]
-- [12 | 12] [TBD               | https://adventofcode.com/2021/]
-- [13 | 13] [TBD               | https://adventofcode.com/2021/]
-- [14 | 14] [TBD               | https://adventofcode.com/2021/]
-- [15 | 15] [TBD               | https://adventofcode.com/2021/]
-- [16 | 16] [TBD               | https://adventofcode.com/2021/]
-- [17 | 17] [TBD               | https://adventofcode.com/2021/]
-- [18 | 18] [TBD               | https://adventofcode.com/2021/]
-- [19 | 19] [TBD               | https://adventofcode.com/2021/]
-- [20 | 20] [TBD               | https://adventofcode.com/2021/]
-- [21 | 21] [TBD               | https://adventofcode.com/2021/]
-- [22 | 22] [TBD               | https://adventofcode.com/2021/]
-- [23 | 23] [TBD               | https://adventofcode.com/2021/]
-- [24 | 24] [TBD               | https://adventofcode.com/2021/]
-- [25 | 25] [TBD               | https://adventofcode.com/2021/]
+- [Depth Measurements ](1) 
+- [Submarine Diving ](2) 
+- [Binary Diagnostics ](3) 
+- [TBD ](4) 
+- [TBD ](5) 
+- [TBD ](6) 
+- [TBD ](7) 
+- [TBD ](8) 
+- [TBD ](9) 
+- [TBD ](10)
+- [TBD ](11)
+- [TBD ](12)
+- [TBD ](13)
+- [TBD ](14)
+- [TBD ](15)
+- [TBD ](16)
+- [TBD ](17)
+- [TBD ](18)
+- [TBD ](19)
+- [TBD ](20)
+- [TBD ](21)
+- [TBD ](22)
+- [TBD ](23)
+- [TBD ](24)
+- [TBD ](25)
