@@ -8,6 +8,7 @@ The theme of the 2021 AOC appears to be submarines...
 
 # My progress
 
+## 2021
 - [Depth Measurements ](2021/01) 
 - [Submarine Diving ](2021/02) 
 - [Binary Diagnostics ](2021/03) 
@@ -33,3 +34,31 @@ The theme of the 2021 AOC appears to be submarines...
 - [TBD ](2021/23)
 - [TBD ](2021/24)
 - [TBD ](2021/25)
+
+
+## 2020
+- [TBD](2020/01) 
+- [TBD](2020/02) 
+- [TBD](2020/03) 
+- [TBD ](2020/04) 
+- [TBD ](2020/05) 
+- [TBD ](2020/06) 
+- [TBD ](2020/07) 
+- [TBD ](2020/08) 
+- [TBD ](2020/09) 
+- [TBD ](2020/10)
+- [TBD ](2020/11)
+- [TBD ](2020/12)
+- [TBD ](2020/13)
+- [TBD ](2020/14)
+- [TBD ](2020/15)
+- [TBD ](2020/16)
+- [TBD ](2020/17)
+- [TBD ](2020/18)
+- [TBD ](2020/19)
+- [TBD ](2020/20)
+- [TBD ](2020/21)
+- [TBD ](2020/22)
+- [TBD ](2020/23)
+- [TBD ](2020/24)
+- [TBD ](2020/25)
