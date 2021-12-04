@@ -38,8 +38,8 @@ The theme of the 2021 AOC appears to be submarines...
 
 ## 2020
 - [Report Repairs](2020/01) 
-- [TBD](2020/02) 
-- [TBD](2020/03) 
+- [Password Issues](2020/02) 
+- [Visiting Trees](2020/03) 
 - [TBD ](2020/04) 
 - [TBD ](2020/05) 
 - [TBD ](2020/06) 
