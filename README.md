@@ -1,6 +1,6 @@
 # Wing's AOC Attempts
 
-[AOC|https://adventofcode.com/] is an online coding challenge timed over the period of the advent calendar days. Total of 25 days.
+[AOC](https://adventofcode.com/) is an online coding challenge timed over the period of the advent calendar days. Total of 25 days.
 
 # AOC 2021
 
