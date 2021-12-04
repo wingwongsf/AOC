@@ -8,9 +8,9 @@ The theme of the 2020 AOC appears to be submarines...
 
 # My progress
 
-- [Depth Measurements ](01) 
-- [Submarine Diving ](02) 
-- [Binary Diagnostics ](03) 
+- [Hotel Report Records](01) 
+- [TBD](02) 
+- [TBD](03) 
 - [TBD ](04) 
 - [TBD ](05) 
 - [TBD ](06) 
